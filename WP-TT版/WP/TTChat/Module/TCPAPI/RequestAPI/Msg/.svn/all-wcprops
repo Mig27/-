@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg
+END
+DDSendPhotoMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/362/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/DDSendPhotoMessageAPI.h
+END
+SendMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/409/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/SendMessageAPI.m
+END
+DDSendPhotoMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/438/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/DDSendPhotoMessageAPI.m
+END
+GetUnreadMessagesAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/GetUnreadMessagesAPI.h
+END
+requstUnreadMessageApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/405/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/requstUnreadMessageApi.h
+END
+GetMessageQueueAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/GetMessageQueueAPI.h
+END
+requstUnreadMessageApi.mm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/requstUnreadMessageApi.mm
+END
+GetUnreadMessagesAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/405/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/GetUnreadMessagesAPI.m
+END
+GetMessageQueueAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/GetMessageQueueAPI.m
+END
+SendMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RequestAPI/Msg/SendMessageAPI.h
+END

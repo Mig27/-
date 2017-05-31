@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager
+END
+AQRecorder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/AQRecorder.mm
+END
+Decapsulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/Decapsulator.m
+END
+PlayerManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/PlayerManager.m
+END
+Encapsulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/Encapsulator.h
+END
+RecorderManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/RecorderManager.h
+END
+RawAudioDataPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/RawAudioDataPlayer.h
+END
+RecorderManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/439/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/RecorderManager.mm
+END
+Encapsulator.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/Encapsulator.m
+END
+Decapsulator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/Decapsulator.h
+END
+AQRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/AQRecorder.h
+END
+PlayerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/PlayerManager.h
+END
+RawAudioDataPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/manager/RawAudioDataPlayer.m
+END

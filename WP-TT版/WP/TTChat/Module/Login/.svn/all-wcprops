@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ioswp/!svn/ver/443/WP-TT%E7%89%88/WP/TTChat/Module/Login
+END
+LoadLocalData.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/443/WP-TT%E7%89%88/WP/TTChat/Module/Login/LoadLocalData.m
+END
+DDMsgServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/431/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDMsgServer.m
+END
+DDTcpServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDTcpServer.m
+END
+DDHttpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDHttpServer.h
+END
+LoginModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/432/WP-TT%E7%89%88/WP/TTChat/Module/Login/LoginModule.h
+END
+DDHttpServer.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/397/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDHttpServer.m
+END
+LoginModule.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/443/WP-TT%E7%89%88/WP/TTChat/Module/Login/LoginModule.m
+END
+LoadLocalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/432/WP-TT%E7%89%88/WP/TTChat/Module/Login/LoadLocalData.h
+END
+DDMsgServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDMsgServer.h
+END
+DDTcpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Login/DDTcpServer.h
+END

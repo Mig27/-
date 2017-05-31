@@ -1,0 +1,1 @@
+link ../../../XHImageViewer/Source/XHZoomingImageView.h

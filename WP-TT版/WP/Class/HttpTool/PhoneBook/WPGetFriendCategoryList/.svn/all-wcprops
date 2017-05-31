@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList
+END
+WPGetFriendCategoryListParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListParam.h
+END
+WPGetFriendCategoryListResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListResult.m
+END
+WPGetFriendCategoryListHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListHttp.m
+END
+WPGetFriendCategoryListParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListParam.m
+END
+WPGetFriendCategoryListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListResult.h
+END
+WPGetFriendCategoryListHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendCategoryList/WPGetFriendCategoryListHttp.h
+END

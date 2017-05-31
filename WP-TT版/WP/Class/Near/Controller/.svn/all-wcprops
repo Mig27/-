@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller
+END
+WPNewResumeHeaderView.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNewResumeHeaderView.m
+END
+WPChooseResumerController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/354/WP-TT%E7%89%88/WP/Class/Near/Controller/WPChooseResumerController.h
+END
+WPResumeUserVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/354/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserVC.h
+END
+WPResumDraftListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumDraftListModel.h
+END
+WPChooseResumerController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/354/WP-TT%E7%89%88/WP/Class/Near/Controller/WPChooseResumerController.m
+END
+WPResumeUserVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/445/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserVC.m
+END
+WPResumDraftListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumDraftListModel.m
+END
+WPResumeUserCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/285/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserCell.h
+END
+WPResumePreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumePreview.h
+END
+WPResumeUserCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/343/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserCell.m
+END
+WPResumePreview.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumePreview.m
+END
+WPNewResumeCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNewResumeCell.h
+END
+WPResumeDraftVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeDraftVC.h
+END
+WPNewResumeCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNewResumeCell.m
+END
+WPResumeDraftVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeDraftVC.m
+END
+WPResumeDraftCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/297/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeDraftCell.h
+END
+WPResumeDraftCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/497/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeDraftCell.m
+END
+WPResumeWebVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/445/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeWebVC.h
+END
+WPNearController.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/503/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNearController.h
+END
+WPResumeUserInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserInfoModel.h
+END
+WPCreateRecruitView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPCreateRecruitView.h
+END
+WPResumeWebVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeWebVC.m
+END
+WPNearController.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/423/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNearController.m
+END
+WPPersonalInfoPreview.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPPersonalInfoPreview.h
+END
+WPCreateRecruitView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPCreateRecruitView.m
+END
+WPResumeUserInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserInfoModel.m
+END
+WPPersonalInfoPreview.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/316/WP-TT%E7%89%88/WP/Class/Near/Controller/WPPersonalInfoPreview.m
+END
+groupCommentTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/Near/Controller/groupCommentTableViewCell.h
+END
+WPResumeUserListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserListModel.h
+END
+WPNewResumeHeaderView.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/281/WP-TT%E7%89%88/WP/Class/Near/Controller/WPNewResumeHeaderView.h
+END
+groupCommentTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Near/Controller/groupCommentTableViewCell.m
+END
+WPResumeUserListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Near/Controller/WPResumeUserListModel.m
+END

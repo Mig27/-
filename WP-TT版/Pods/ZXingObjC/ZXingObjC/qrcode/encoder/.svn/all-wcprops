@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder
+END
+ZXQRCodeMaskUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMaskUtil.h
+END
+ZXQRCodeBlockPair.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeBlockPair.m
+END
+ZXQRCodeMaskUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMaskUtil.m
+END
+ZXQRCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCode.h
+END
+ZXQRCodeEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeEncoder.h
+END
+ZXQRCodeMatrixUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMatrixUtil.h
+END
+ZXQRCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCode.m
+END
+ZXQRCodeEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeEncoder.m
+END
+ZXQRCodeBlockPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeBlockPair.h
+END
+ZXQRCodeMatrixUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/encoder/ZXQRCodeMatrixUtil.m
+END

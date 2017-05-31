@@ -1,0 +1,1 @@
+link ../../../../ProtocolBuffers/src/runtime/Classes/ExtendableMessage.h

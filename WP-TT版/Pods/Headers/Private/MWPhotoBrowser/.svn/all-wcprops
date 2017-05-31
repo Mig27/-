@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser
+END
+MWGridCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWGridCell.h
+END
+MWTapDetectingView.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWTapDetectingView.h
+END
+MWCaptionView.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWCaptionView.h
+END
+MWCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWCommon.h
+END
+MWPhotoBrowserPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWPhotoBrowserPrivate.h
+END
+MWPhoto.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWPhoto.h
+END
+MWTapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWTapDetectingImageView.h
+END
+UIImage+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/UIImage+MWPhotoBrowser.h
+END
+MWPhotoProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWPhotoProtocol.h
+END
+MWZoomingScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWZoomingScrollView.h
+END
+MWPhotoBrowser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWPhotoBrowser.h
+END
+MWGridViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/MWPhotoBrowser/MWGridViewController.h
+END

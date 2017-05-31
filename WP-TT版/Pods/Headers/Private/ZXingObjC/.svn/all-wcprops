@@ -1,0 +1,1427 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC
+END
+ZXCalendarParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCalendarParsedResult.h
+END
+ZXDataMatrixASCIIEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixASCIIEncoder.h
+END
+ZXRSSExpandedCurrentParsingState.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedCurrentParsingState.h
+END
+ZXMultiFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiFinderPatternFinder.h
+END
+ZXCode39Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCode39Reader.h
+END
+ZXQRCodeWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeWriter.h
+END
+ZXAztecBinaryShiftToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecBinaryShiftToken.h
+END
+ZXMathUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMathUtils.h
+END
+ZXCodaBarReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCodaBarReader.h
+END
+ZXEAN8Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEAN8Reader.h
+END
+ZXAbstractRSSReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAbstractRSSReader.h
+END
+ZXDataMatrixReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixReader.h
+END
+ZXRSSExpandedGeneralAppIdDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedGeneralAppIdDecoder.h
+END
+ZXPDF417BarcodeValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417BarcodeValue.h
+END
+ZXBitArrayBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBitArrayBuilder.h
+END
+ZXingObjCMaxiCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCMaxiCode.h
+END
+ZXDataMatrixHighLevelEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixHighLevelEncoder.h
+END
+ZXQRCodeMaskUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeMaskUtil.h
+END
+ZXCharacterSetECI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCharacterSetECI.h
+END
+ZXEAN13Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEAN13Reader.h
+END
+ZXBoolArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBoolArray.h
+END
+ZXGenericMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGenericMultipleBarcodeReader.h
+END
+ZXPDF417Codeword.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Codeword.h
+END
+ZXWifiParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXWifiParsedResult.h
+END
+ZXRSSFinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSFinderPattern.h
+END
+ZXMultiFormatWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiFormatWriter.h
+END
+ZXQRCodeAlignmentPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeAlignmentPatternFinder.h
+END
+ZXReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXReader.h
+END
+ZXGeoParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGeoParsedResult.h
+END
+ZXMaxiCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMaxiCodeReader.h
+END
+ZXQRCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDecodedBitStreamParser.h
+END
+ZXResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXResult.h
+END
+ZXRSSDataCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSDataCharacter.h
+END
+ZXAztecSimpleToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecSimpleToken.h
+END
+ZXingObjCOneD.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCOneD.h
+END
+ZXImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXImage.h
+END
+ZXQRCodeVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeVersion.h
+END
+ZXQRCodeDataMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDataMask.h
+END
+ZXGlobalHistogramBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGlobalHistogramBinarizer.h
+END
+ZXPerspectiveTransform.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPerspectiveTransform.h
+END
+ZXEANManufacturerOrgSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEANManufacturerOrgSupport.h
+END
+ZXDimension.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDimension.h
+END
+ZXAI013103decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI013103decoder.h
+END
+ZXHybridBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXHybridBinarizer.h
+END
+ZXISBNParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXISBNParsedResult.h
+END
+ZXIntArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXIntArray.h
+END
+ZXDataMatrixSymbolInfo144.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixSymbolInfo144.h
+END
+ZXAztecReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecReader.h
+END
+ZXUPCEANExtension5Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEANExtension5Support.h
+END
+ZXingObjCDataMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCDataMatrix.h
+END
+ZXEmailAddressParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEmailAddressParsedResult.h
+END
+ZXResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXResultParser.h
+END
+ZXQRCodeFormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeFormatInformation.h
+END
+ZXPDF417HighLevelEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417HighLevelEncoder.h
+END
+ZXAztecHighLevelEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecHighLevelEncoder.h
+END
+ZXCode128Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCode128Writer.h
+END
+ZXByteArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXByteArray.h
+END
+ZXCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCapture.h
+END
+ZXBitMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBitMatrix.h
+END
+ZXPDF417ResultMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417ResultMetadata.h
+END
+ZXPDF417ErrorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417ErrorCorrection.h
+END
+ZXAztecState.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecState.h
+END
+ZXRSSExpandedRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedRow.h
+END
+ZXVINResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXVINResultParser.h
+END
+ZXBarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBarcodeFormat.h
+END
+ZXUPCEANWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEANWriter.h
+END
+ZXOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXOneDReader.h
+END
+ZXPDF417BarcodeMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417BarcodeMatrix.h
+END
+ZXAI01AndOtherAIs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01AndOtherAIs.h
+END
+ZXBitArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBitArray.h
+END
+ZXURLTOResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXURLTOResultParser.h
+END
+ZXPDF417CodewordDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417CodewordDecoder.h
+END
+ZXRSSPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSPair.h
+END
+ZXCode39Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCode39Writer.h
+END
+ZXMonochromeRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMonochromeRectangleDetector.h
+END
+ZXRGBLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRGBLuminanceSource.h
+END
+ZXCodaBarWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCodaBarWriter.h
+END
+ZXEAN8Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEAN8Writer.h
+END
+ZXMaxiCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMaxiCodeBitMatrixParser.h
+END
+ZXQRCodeFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeFinderPatternFinder.h
+END
+ZXDataMatrixWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixWriter.h
+END
+ZXAI01320xDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01320xDecoder.h
+END
+ZXInvertedLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXInvertedLuminanceSource.h
+END
+ZXDataMatrixEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixEncoder.h
+END
+ZXMultipleBarcodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultipleBarcodeReader.h
+END
+ZXSMTPResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXSMTPResultParser.h
+END
+ZXSMSTOMMSTOResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXSMSTOMMSTOResultParser.h
+END
+ZXingObjCPDF417.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCPDF417.h
+END
+ZXDataMatrixDataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixDataBlock.h
+END
+ZXQRCodeFinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeFinderPattern.h
+END
+ZXEAN13Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEAN13Writer.h
+END
+ZXURIResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXURIResultParser.h
+END
+ZXWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXWriter.h
+END
+ZXPDF417BarcodeRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417BarcodeRow.h
+END
+ZXQRCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeBitMatrixParser.h
+END
+ZXPDF417ECErrorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417ECErrorCorrection.h
+END
+ZXDataMatrixDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixDecoder.h
+END
+ZXingObjCCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCCore.h
+END
+ZXRSSExpandedDecodedChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedDecodedChar.h
+END
+ZXExpandedProductParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXExpandedProductParsedResult.h
+END
+ZXDataMatrixDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixDetector.h
+END
+ZXPDF417Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Reader.h
+END
+ZXProductResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXProductResultParser.h
+END
+ZXAddressBookParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAddressBookParsedResult.h
+END
+ZXDataMatrixDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixDecodedBitStreamParser.h
+END
+ZXTelResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXTelResultParser.h
+END
+ZXDataMatrixSymbolInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixSymbolInfo.h
+END
+ZXEncodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEncodeHints.h
+END
+ZXAztecWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecWriter.h
+END
+ZXDecoderResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDecoderResult.h
+END
+ZXITFReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXITFReader.h
+END
+ZXResultPointCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXResultPointCallback.h
+END
+ZXDataMatrixC40Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixC40Encoder.h
+END
+ZXAI01392xDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01392xDecoder.h
+END
+ZXAztecEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecEncoder.h
+END
+ZXAztecToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecToken.h
+END
+ZXRSSExpandedDecodedNumeric.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedDecodedNumeric.h
+END
+ZXUPCAReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCAReader.h
+END
+ZXingObjC.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjC.h
+END
+ZXDataMatrixEdifactEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixEdifactEncoder.h
+END
+ZXParsedResultType.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXParsedResultType.h
+END
+ZXUPCEReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEReader.h
+END
+ZXQRCodeFinderPatternInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeFinderPatternInfo.h
+END
+ZXBookmarkDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBookmarkDoCoMoResultParser.h
+END
+ZXVEventResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXVEventResultParser.h
+END
+ZXReedSolomonEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXReedSolomonEncoder.h
+END
+ZXPDF417BarcodeMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417BarcodeMetadata.h
+END
+ZXDecodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDecodeHints.h
+END
+ZXMaxiCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMaxiCodeDecodedBitStreamParser.h
+END
+ZXRSSExpandedBlockParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedBlockParsedResult.h
+END
+ZXAztecDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecDecoder.h
+END
+ZXBitSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBitSource.h
+END
+ZXPDF417Detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Detector.h
+END
+ZXAztecDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecDetector.h
+END
+ZXRSSExpandedReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedReader.h
+END
+ZXDataMatrixVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixVersion.h
+END
+ZXQRCodeBlockPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeBlockPair.h
+END
+ZXQRCodeDecoderMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDecoderMetaData.h
+END
+ZXPDF417.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417.h
+END
+ZXDetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDetectorResult.h
+END
+ZXingObjCQRCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCQRCode.h
+END
+ZXWifiResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXWifiResultParser.h
+END
+ZXQRCodeMultiReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeMultiReader.h
+END
+ZXReedSolomonDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXReedSolomonDecoder.h
+END
+ZXParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXParsedResult.h
+END
+ZXAddressBookDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAddressBookDoCoMoResultParser.h
+END
+ZXPDF417Common.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Common.h
+END
+ZXAI01decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01decoder.h
+END
+ZXMultiFormatUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiFormatUPCEANReader.h
+END
+ZXQRCodeDataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDataBlock.h
+END
+ZXMultiDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiDetector.h
+END
+ZXBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBinarizer.h
+END
+ZXGeoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGeoResultParser.h
+END
+ZXRSSUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSUtils.h
+END
+ZXBizcardResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBizcardResultParser.h
+END
+ZXVINParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXVINParsedResult.h
+END
+ZXDataMatrixDefaultPlacement.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixDefaultPlacement.h
+END
+ZXModulusPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXModulusPoly.h
+END
+ZXOneDimensionalCodeWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXOneDimensionalCodeWriter.h
+END
+ZXGenericGFPoly.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGenericGFPoly.h
+END
+ZXPDF417Dimensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Dimensions.h
+END
+ZXCaptureDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCaptureDelegate.h
+END
+ZXRSSExpandedDecodedInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedDecodedInformation.h
+END
+ZXRSS14Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSS14Reader.h
+END
+ZXAztecDetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecDetectorResult.h
+END
+ZXQRCodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeReader.h
+END
+ZXAztecCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAztecCode.h
+END
+ZXPDF417Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417Writer.h
+END
+ZXPDF417DetectionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417DetectionResult.h
+END
+ZXDataMatrixEncoderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixEncoderContext.h
+END
+ZXModulusGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXModulusGF.h
+END
+ZXPDF417DetectionResultRowIndicatorColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417DetectionResultRowIndicatorColumn.h
+END
+ZXQRCodeErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeErrorCorrectionLevel.h
+END
+ZXISBNResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXISBNResultParser.h
+END
+ZXAI01393xDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01393xDecoder.h
+END
+ZXCode93Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCode93Reader.h
+END
+ZXEmailAddressResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEmailAddressResultParser.h
+END
+ZXPDF417ScanningDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417ScanningDecoder.h
+END
+ZXAI013x0x1xDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI013x0x1xDecoder.h
+END
+ZXDefaultGridSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDefaultGridSampler.h
+END
+ZXITFWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXITFWriter.h
+END
+ZXRSSExpandedDecodedObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedDecodedObject.h
+END
+ZXResultMetadataType.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXResultMetadataType.h
+END
+ZXQRCodeMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeMode.h
+END
+ZXTextParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXTextParsedResult.h
+END
+ZXUPCAWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCAWriter.h
+END
+ZXMultiFormatReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiFormatReader.h
+END
+ZXStringUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXStringUtils.h
+END
+ZXUPCEANExtension2Support.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEANExtension2Support.h
+END
+ZXByteMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXByteMatrix.h
+END
+ZXAI01weightDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI01weightDecoder.h
+END
+ZXGenericGF.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGenericGF.h
+END
+ZXByQuadrantReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXByQuadrantReader.h
+END
+ZXURIParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXURIParsedResult.h
+END
+ZXDataMatrixBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixBitMatrixParser.h
+END
+ZXWhiteRectangleDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXWhiteRectangleDetector.h
+END
+ZXingObjCAztec.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXingObjCAztec.h
+END
+ZXDataMatrixTextEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixTextEncoder.h
+END
+ZXAI013x0xDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAI013x0xDecoder.h
+END
+ZXPDF417DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417DecodedBitStreamParser.h
+END
+ZXQRCodeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDetector.h
+END
+ZXGridSampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXGridSampler.h
+END
+ZXCGImageLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCGImageLuminanceSource.h
+END
+ZXQRCodeAlignmentPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeAlignmentPattern.h
+END
+ZXVCardResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXVCardResultParser.h
+END
+ZXErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXErrors.h
+END
+ZXQRCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCode.h
+END
+ZXQRCodeEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeEncoder.h
+END
+ZXProductParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXProductParsedResult.h
+END
+ZXMaxiCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMaxiCodeDecoder.h
+END
+ZXAbstractDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAbstractDoCoMoResultParser.h
+END
+ZXPDF417DetectionResultColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417DetectionResultColumn.h
+END
+ZXBinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXBinaryBitmap.h
+END
+ZXTelParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXTelParsedResult.h
+END
+ZXDataMatrixBase256Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixBase256Encoder.h
+END
+ZXAnyAIDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAnyAIDecoder.h
+END
+ZXResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXResultPoint.h
+END
+ZXCode128Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXCode128Reader.h
+END
+ZXDataMatrixX12Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixX12Encoder.h
+END
+ZXSMSMMSResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXSMSMMSResultParser.h
+END
+ZXMultiFormatOneDReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXMultiFormatOneDReader.h
+END
+ZXLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXLuminanceSource.h
+END
+ZXRSSExpandedPair.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedPair.h
+END
+ZXUPCEANReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEANReader.h
+END
+ZXPDF417DetectorResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417DetectorResult.h
+END
+ZXPlanarYUVLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPlanarYUVLuminanceSource.h
+END
+ZXSMSParsedResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXSMSParsedResult.h
+END
+ZXDataMatrixErrorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXDataMatrixErrorCorrection.h
+END
+ZXQRCodeMatrixUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeMatrixUtil.h
+END
+ZXRSSExpandedFieldParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXRSSExpandedFieldParser.h
+END
+ZXAbstractExpandedDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAbstractExpandedDecoder.h
+END
+ZXAddressBookAUResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXAddressBookAUResultParser.h
+END
+ZXQRCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXQRCodeDecoder.h
+END
+ZXEmailDoCoMoResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXEmailDoCoMoResultParser.h
+END
+ZXPDF417BoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXPDF417BoundingBox.h
+END
+ZXUPCEANExtensionSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXUPCEANExtensionSupport.h
+END
+ZXExpandedProductResultParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Private/ZXingObjC/ZXExpandedProductResultParser.h
+END

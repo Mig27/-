@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core
+END
+ZXEncodeHints.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXEncodeHints.m
+END
+ZXBarcodeFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXBarcodeFormat.h
+END
+ZXResultMetadataType.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResultMetadataType.h
+END
+ZXRGBLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXRGBLuminanceSource.h
+END
+ZXByteMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXByteMatrix.h
+END
+ZXDecodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXDecodeHints.h
+END
+ZXRGBLuminanceSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXRGBLuminanceSource.m
+END
+ZXInvertedLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXInvertedLuminanceSource.h
+END
+ZXByteMatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXByteMatrix.m
+END
+ZXDecodeHints.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXDecodeHints.m
+END
+ZXReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXReader.h
+END
+ZXInvertedLuminanceSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXInvertedLuminanceSource.m
+END
+ZXWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXWriter.h
+END
+ZXErrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXErrors.h
+END
+ZXResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResult.h
+END
+ZXErrors.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXErrors.m
+END
+ZXBinaryBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXBinaryBitmap.h
+END
+ZXResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResult.m
+END
+ZXingObjCCore.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXingObjCCore.h
+END
+ZXDimension.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXDimension.h
+END
+ZXBinarizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXBinarizer.h
+END
+ZXBinaryBitmap.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXBinaryBitmap.m
+END
+ZXResultPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResultPoint.h
+END
+ZXDimension.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXDimension.m
+END
+ZXBinarizer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXBinarizer.m
+END
+ZXLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXLuminanceSource.h
+END
+ZXResultPoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResultPoint.m
+END
+ZXPlanarYUVLuminanceSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXPlanarYUVLuminanceSource.h
+END
+ZXLuminanceSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXLuminanceSource.m
+END
+ZXPlanarYUVLuminanceSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXPlanarYUVLuminanceSource.m
+END
+ZXEncodeHints.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXEncodeHints.h
+END
+ZXResultPointCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/core/ZXResultPointCallback.h
+END

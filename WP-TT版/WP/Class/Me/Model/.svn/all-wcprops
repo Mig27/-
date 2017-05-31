@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model
+END
+WPInfoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPInfoManager.h
+END
+MessagerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/MessagerManager.h
+END
+WPSignManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPSignManager.h
+END
+WPInfoManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPInfoManager.m
+END
+MessagerManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/MessagerManager.m
+END
+WPMeActivityModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPMeActivityModel.h
+END
+WPSignManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPSignManager.m
+END
+WPCompanyManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCompanyManager.h
+END
+WPMeActivityModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPMeActivityModel.m
+END
+WPCompanyManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCompanyManager.m
+END
+NSString+Characters.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/NSString+Characters.h
+END
+AnonymousManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/AnonymousManager.h
+END
+WPCollectionModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCollectionModel.h
+END
+FrienDListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/FrienDListModel.h
+END
+WPPersonalManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPPersonalManager.h
+END
+CollectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/CollectionManager.h
+END
+MessagerModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/MessagerModel.h
+END
+NSString+Characters.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/NSString+Characters.m
+END
+AnonymousManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/AnonymousManager.m
+END
+WPCollectionModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCollectionModel.m
+END
+FrienDListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/FrienDListModel.m
+END
+WPPersonalManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPPersonalManager.m
+END
+WPPersonListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPPersonListModel.h
+END
+CollectionManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/CollectionManager.m
+END
+MessagerModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/MessagerModel.m
+END
+WPIDManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPIDManager.h
+END
+WPPersonListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPPersonListModel.m
+END
+WPRefreshManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPRefreshManager.h
+END
+FriendManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/FriendManager.h
+END
+WPSetRefreshModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPSetRefreshModel.h
+END
+WPIDManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPIDManager.m
+END
+WPRefreshManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPRefreshManager.m
+END
+FriendManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/FriendManager.m
+END
+WPSetRefreshModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPSetRefreshModel.m
+END
+AnonymousModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/AnonymousModel.h
+END
+SignListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/SignListModel.h
+END
+AnonymousModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/AnonymousModel.m
+END
+WPCompanysModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCompanysModel.h
+END
+SignListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/SignListModel.m
+END
+WPCompanysModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Model/WPCompanysModel.m
+END

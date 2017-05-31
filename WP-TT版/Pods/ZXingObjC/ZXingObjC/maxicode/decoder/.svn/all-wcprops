@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder
+END
+ZXMaxiCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecodedBitStreamParser.h
+END
+ZXMaxiCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeBitMatrixParser.h
+END
+ZXMaxiCodeDecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecodedBitStreamParser.m
+END
+ZXMaxiCodeBitMatrixParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeBitMatrixParser.m
+END
+ZXMaxiCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecoder.h
+END
+ZXMaxiCodeDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/maxicode/decoder/ZXMaxiCodeDecoder.m
+END

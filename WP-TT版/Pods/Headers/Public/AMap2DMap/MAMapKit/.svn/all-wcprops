@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit
+END
+MAOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAOverlayView.h
+END
+MAMapURLSearchConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapURLSearchConfig.h
+END
+MAPolygonRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolygonRenderer.h
+END
+MAOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAOverlay.h
+END
+MAPolygonView.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolygonView.h
+END
+MAPolylineRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolylineRenderer.h
+END
+MAPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPointAnnotation.h
+END
+MAOverlayPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAOverlayPathRenderer.h
+END
+MAMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapKit.h
+END
+MATileOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MATileOverlayRenderer.h
+END
+MAPolylineView.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolylineView.h
+END
+MAPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolygon.h
+END
+MAGroundOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAGroundOverlayRenderer.h
+END
+MAMapURLSearchType.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapURLSearchType.h
+END
+MAOverlayPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAOverlayPathView.h
+END
+MATileOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MATileOverlayView.h
+END
+MAUserLocationRepresentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAUserLocationRepresentation.h
+END
+MAGroundOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAGroundOverlayView.h
+END
+MAPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPolyline.h
+END
+MATileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MATileOverlay.h
+END
+MAGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAGroundOverlay.h
+END
+MAAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAAnnotationView.h
+END
+MAUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAUserLocation.h
+END
+MAAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAAnnotation.h
+END
+MAPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAPinAnnotationView.h
+END
+MAMapServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapServices.h
+END
+MAMapURLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapURLSearch.h
+END
+MACircleRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MACircleRenderer.h
+END
+MAGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAGeometry.h
+END
+MACircleView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MACircleView.h
+END
+MAGeodesicPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAGeodesicPolyline.h
+END
+MAHeatMapTileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAHeatMapTileOverlay.h
+END
+MAShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAShape.h
+END
+MACircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MACircle.h
+END
+MAMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMultiPoint.h
+END
+MAMultiColoredPolylineRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMultiColoredPolylineRenderer.h
+END
+MAMultiPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMultiPolyline.h
+END
+MAOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAOverlayRenderer.h
+END
+MAMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/Headers/Public/AMap2DMap/MAMapKit/MAMapView.h
+END

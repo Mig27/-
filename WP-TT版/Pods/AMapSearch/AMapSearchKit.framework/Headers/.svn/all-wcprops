@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers
+END
+AMapSearchKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchKit.h
+END
+AMapSearchAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchAPI.h
+END
+AMapSearchError.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchError.h
+END
+AMapSearchObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchObj.h
+END
+AMapNearbySearchManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapNearbySearchManager.h
+END
+AMapNearbyUploadInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapNearbyUploadInfo.h
+END
+AMapCommonObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapCommonObj.h
+END
+AMapSearchServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchServices.h
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views
+END
+MLPhotoBrowserPhotoScrollView.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/386/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoScrollView.h
+END
+MLPhotoBrowserPhotoView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoView.h
+END
+MLPhotoBrowserPhotoImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoImageView.h
+END
+MLPhotoBrowserCustomToolBarView.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserCustomToolBarView.h
+END
+MLPhotoBrowserPhotoScrollView.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoScrollView.m
+END
+MLPhotoBrowserPhotoView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoView.m
+END
+MLPhotoBrowserPhotoImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserPhotoImageView.m
+END
+MLPhotoBrowserCustomToolBarView.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Libs/MLPhotoBrowser/Classes/Views/MLPhotoBrowserCustomToolBarView.m
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder
+END
+ZXDataMatrixDataBlock.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDataBlock.m
+END
+ZXDataMatrixDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecoder.m
+END
+ZXDataMatrixVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixVersion.m
+END
+ZXDataMatrixDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecodedBitStreamParser.h
+END
+ZXDataMatrixBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixBitMatrixParser.h
+END
+ZXDataMatrixDataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDataBlock.h
+END
+ZXDataMatrixDecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecodedBitStreamParser.m
+END
+ZXDataMatrixBitMatrixParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixBitMatrixParser.m
+END
+ZXDataMatrixDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixDecoder.h
+END
+ZXDataMatrixVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/decoder/ZXDataMatrixVersion.h
+END

@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI
+END
+SendPushTokenAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/407/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/SendPushTokenAPI.m
+END
+DDSendBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDSendBuffer.h
+END
+RemoveSessionAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RemoveSessionAPI.h
+END
+DDDeleteMemberFromGroupAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDDeleteMemberFromGroupAPI.h
+END
+MTTNightModeAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTNightModeAPI.h
+END
+DDAPISchedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAPISchedule.h
+END
+DDSendBuffer.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDSendBuffer.m
+END
+RemoveSessionAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/375/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/RemoveSessionAPI.m
+END
+DDAddMemberToGroupAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAddMemberToGroupAPI.h
+END
+DDDeleteMemberFromGroupAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/371/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDDeleteMemberFromGroupAPI.m
+END
+MTTNightModeAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTNightModeAPI.m
+END
+DDAPISchedule.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/378/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAPISchedule.m
+END
+DDAddMemberToGroupAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/370/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAddMemberToGroupAPI.m
+END
+DDUnrequestSuperAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDUnrequestSuperAPI.h
+END
+GetLatestMsgId.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetLatestMsgId.h
+END
+DDUnrequestSuperAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDUnrequestSuperAPI.m
+END
+DDCreateGroupAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDCreateGroupAPI.h
+END
+ShieldGroupMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/ShieldGroupMessageAPI.h
+END
+GetLatestMsgId.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetLatestMsgId.m
+END
+DDCreateGroupAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/373/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDCreateGroupAPI.m
+END
+DDTcpProtocolHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/378/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDTcpProtocolHeader.h
+END
+ShieldGroupMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/ShieldGroupMessageAPI.m
+END
+DDGroupMsgReceivedACKAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDGroupMsgReceivedACKAPI.h
+END
+MsgReadACKAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MsgReadACKAPI.h
+END
+DDAPIUnrequestScheduleProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAPIUnrequestScheduleProtocol.h
+END
+DDTcpProtocolHeader.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDTcpProtocolHeader.m
+END
+DDSuperAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDSuperAPI.h
+END
+DDGroupMsgReceivedACKAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDGroupMsgReceivedACKAPI.m
+END
+MsgReadACKAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MsgReadACKAPI.m
+END
+DDReceiveGroupAddMemberAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDReceiveGroupAddMemberAPI.h
+END
+MTTChangeNightModeAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTChangeNightModeAPI.h
+END
+LogoutAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/LogoutAPI.h
+END
+DDDepartmentAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDDepartmentAPI.h
+END
+DDSuperAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ioswp/!svn/ver/397/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDSuperAPI.m
+END
+GetRecentSession.mm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/296/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetRecentSession.mm
+END
+DDReceiveGroupAddMemberAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/378/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDReceiveGroupAddMemberAPI.m
+END
+MTTChangeNightModeAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTChangeNightModeAPI.m
+END
+LogoutAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/LogoutAPI.m
+END
+DDAllUserAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAllUserAPI.h
+END
+MTTShakeAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTShakeAPI.h
+END
+DDDepartmentAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDDepartmentAPI.m
+END
+MTTUsersStatAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTUsersStatAPI.h
+END
+DDAllUserAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/434/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAllUserAPI.m
+END
+DDFixedGroupAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDFixedGroupAPI.h
+END
+MTTShakeAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTShakeAPI.m
+END
+DDUserDetailInfoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDUserDetailInfoAPI.h
+END
+MTTSignatureAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTSignatureAPI.h
+END
+DDAPIScheduleProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDAPIScheduleProtocol.h
+END
+MTTUsersStatAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTUsersStatAPI.m
+END
+MTTKickPCClientAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTKickPCClientAPI.h
+END
+GetMsgByMsgIDsAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetMsgByMsgIDsAPI.h
+END
+DDFixedGroupAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDFixedGroupAPI.m
+END
+SendPushTokenAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/SendPushTokenAPI.h
+END
+GetRecentSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetRecentSession.h
+END
+DDUserDetailInfoAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/DDUserDetailInfoAPI.m
+END
+MTTSignatureAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTSignatureAPI.m
+END
+MTTKickPCClientAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/MTTKickPCClientAPI.m
+END
+GetMsgByMsgIDsAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/GetMsgByMsgIDsAPI.m
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory
+END
+WPDeleteFriendCategoryResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryResult.h
+END
+WPDeleteFriendCategoryHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryHttp.h
+END
+WPDeleteFriendCategoryParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryParam.h
+END
+WPDeleteFriendCategoryResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryResult.m
+END
+WPDeleteFriendCategoryHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryHttp.m
+END
+WPDeleteFriendCategoryParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPDeleteFriendCategory/WPDeleteFriendCategoryParam.m
+END

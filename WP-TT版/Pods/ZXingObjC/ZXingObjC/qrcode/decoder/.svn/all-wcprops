@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder
+END
+ZXQRCodeErrorCorrectionLevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeErrorCorrectionLevel.h
+END
+ZXQRCodeDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoder.m
+END
+ZXQRCodeDecoderMetaData.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoderMetaData.m
+END
+ZXQRCodeErrorCorrectionLevel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeErrorCorrectionLevel.m
+END
+ZXQRCodeDecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecodedBitStreamParser.h
+END
+ZXQRCodeBitMatrixParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeBitMatrixParser.h
+END
+ZXQRCodeMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeMode.h
+END
+ZXQRCodeDecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecodedBitStreamParser.m
+END
+ZXQRCodeDataBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataBlock.h
+END
+ZXQRCodeVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.h
+END
+ZXQRCodeBitMatrixParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeBitMatrixParser.m
+END
+ZXQRCodeDataMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataMask.h
+END
+ZXQRCodeMode.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeMode.m
+END
+ZXQRCodeDataBlock.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataBlock.m
+END
+ZXQRCodeVersion.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeVersion.m
+END
+ZXQRCodeDataMask.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDataMask.m
+END
+ZXQRCodeFormatInformation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeFormatInformation.h
+END
+ZXQRCodeFormatInformation.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeFormatInformation.m
+END
+ZXQRCodeDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoder.h
+END
+ZXQRCodeDecoderMetaData.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/decoder/ZXQRCodeDecoderMetaData.h
+END

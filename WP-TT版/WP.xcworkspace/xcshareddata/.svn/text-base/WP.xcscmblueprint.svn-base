@@ -1,0 +1,47 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3E3DE857446BF207890D8B703BB2F1CDEEF1B2AA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++3408" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++4689" : 0,
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++3408" : 0,
+<<<<<<< HEAD
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++4689" : 0,
+=======
+>>>>>>> 479a389578ab82263ad903e6e76a2366b3053f01
+    "3E3DE857446BF207890D8B703BB2F1CDEEF1B2AA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C92ABAED-80DB-4BF4-8D84-A5EEB3696937",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++4689" : "WP",
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++3408" : "WP2015.9.2",
+<<<<<<< HEAD
+    "177fbe49-50ca-5e4f-a2ce-60f6b7341004++4689" : "WP",
+=======
+>>>>>>> 479a389578ab82263ad903e6e76a2366b3053f01
+    "3E3DE857446BF207890D8B703BB2F1CDEEF1B2AA" : "WeiPin\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WP",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WP.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.100\/svn\/IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "177fbe49-50ca-5e4f-a2ce-60f6b7341004++3408"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.100\/svn\/IOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "177fbe49-50ca-5e4f-a2ce-60f6b7341004++4689"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/kakukeme\/WeiPin.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E3DE857446BF207890D8B703BB2F1CDEEF1B2AA"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio
+END
+AudioManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/AudioManager.h
+END
+amrFileCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/amrFileCodec.h
+END
+AudioAmrUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/AudioAmrUtil.h
+END
+AudioManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/AudioManager.m
+END
+amrFileCodec.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/amrFileCodec.m
+END
+AudioAmrUtil.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/AudioAmrUtil.m
+END

@@ -1,0 +1,276 @@
+//
+//  PrefixHeader.pch
+//
+
+#ifndef Weibo_PrefixHeader_pch
+#define Weibo_PrefixHeader_pch
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import <AFNetworking/AFNetworking.h>
+
+#import <MJExtension/MJExtension.h>
+#import <MJRefresh/MJRefresh.h>
+
+#import <BlocksKit/BlocksKit+UIKit.h>
+
+#import <ReactiveCocoa/ReactiveCocoa.h>
+#import <ReactiveCocoa/RACEXTScope.h>
+
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <SDWebImage/UIButton+WebCache.h>
+
+#import <Masonry/Masonry.h>
+
+#import <MAMapKit/MAMapKit.h>
+#import <AMapSearchKit/AMapSearchKit.h>
+
+#import <YYKit/YYKit.h>
+
+#import "WPConstant.h"
+
+#import "NSObject+Common.h"
+#import "UIView+Common.h"
+#import "NSString+Common.h"
+
+#import "UIImage+Common.h"
+#import "UIColor+Common.h"
+
+#import "MBProgressHUD.h"
+
+#import "BaseViewController.h"
+#import "UIImage+MR.h"
+#import "MacroDefinition.h"
+
+#import "NSString+StringType.h"
+#import "UIButton+Extension.h"
+#import "UILabel+Extension.h"
+#import "UIImage+ImageType.h"
+#import "WPHttpTool.h"
+#import "WPShareModel.h"
+#import "Describe.h"
+#import "SPLocalApplyArray.h"
+#import "SPAlert.h"
+#import "RSClikcButton.h"
+
+#import "UITableView+EmptyData.h"
+#import "UICollectionView+EmptyData.h"
+#import "UIView+Extension.h"
+
+// MJPhotoBrowser
+#import "MJPhotoBrowser.h"
+#import "MJPhoto.h"
+
+
+#import "MacroDefinition.h"
+#import "NSString+StringType.h"
+
+#import "CCUtil.h"
+
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import "MTTConstant.h"
+#import "MTTConfig.h"
+#import "MTTUtil.h"
+#import "RuntimeStatus.h"
+
+#endif
+
+/********键盘*********/
+// 宽、高
+#define kScreen_Height [UIScreen mainScreen].bounds.size.height
+#define kScreen_Width [UIScreen mainScreen].bounds.size.width
+
+#define kPaddingLeftWidth 15.0
+
+#define kDevice_Is_iPhone5 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(640, 1136), [[UIScreen mainScreen] currentMode].size) : NO)
+#define kDevice_Is_iPhone6 ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(750, 1334), [[UIScreen mainScreen] currentMode].size) : NO)
+#define kDevice_Is_iPhone6Plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1242, 2208), [[UIScreen mainScreen] currentMode].size) : NO)
+
+// keyWindow
+#define kKeyWindow [UIApplication sharedApplication].keyWindow
+
+// 提示
+#define kTipAlert(_S_, ...)     [[[UIAlertView alloc] initWithTitle:@"提示" message:[NSString stringWithFormat:(_S_), ##__VA_ARGS__] delegate:nil cancelButtonTitle:@"知道了" otherButtonTitles:nil] show]
+
+// 常用变量
+#define DebugLog(s, ...) NSLog(@"%s(%d): %@", __FUNCTION__, __LINE__, [NSString stringWithFormat:(s), ##__VA_ARGS__])
+
+/********键盘*********/
+
+// 1.判断是否为iOS7
+#define iOS7 ([[UIDevice currentDevice].systemVersion doubleValue] >= 7.0)
+#pragma mark - 设备型号识别
+
+// 2.获得RGB颜色
+#define WPColor(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+#define WPGlobalBgColor WPColor(226, 226, 226)
+#define AttributedColor RGB(90,110,150)
+#define BackGroundColor RGB(235,235,235)
+
+//设置图片
+#define IMAGENAMED(X) [UIImage imageNamed:X]
+
+// 图标的比例
+#define IWTabBarButtonImageRatio 0.6
+
+// 按钮的默认文字颜色
+#define  IWTabBarButtonTitleColor (iOS7 ? [UIColor blackColor] : [UIColor whiteColor])
+// 按钮的选中文字颜色
+#define  IWTabBarButtonTitleSelectedColor (iOS7 ? WPColor(15, 87, 199) : WPColor(255, 0, 0))
+
+#define WPNotificationCenter [NSNotificationCenter defaultCenter]
+
+#define RGBACOLOR(R,G,B,A) [UIColor colorWithRed:(R)/255.0f green:(G)/255.0f blue:(B)/255.0f alpha:(A)]
+
+#define kLightColor RGB(153,153,153)
+
+#define WPBlackBold @"Verdana-Italic"
+#define WPStatusNameFont [UIFont systemFontOfSize:15]
+
+#define WPStatusContentFont [UIFont systemFontOfSize:14]
+
+#define WPStatusTimeFont [UIFont systemFontOfSize:12]
+
+#pragma mark - 硬件
+
+#define WINDOW [UIApplication sharedApplication].keyWindow
+#define imageScrollerHeight (SCREEN_WIDTH*224/720)
+//根据屏幕尺寸设置通用尺寸
+#define kListEdge 8
+#define CHATH(x) ((SCREEN_WIDTH == 320)?(x):((SCREEN_WIDTH == 375)?(x*375/320):(x*414/320)))
+#define CHATHEIGHT lroundf(CHATH(x))
+#define FUCKHEIGHT(x) ((SCREEN_WIDTH == 320)?(x):(x*1.172))/**< 根据设备返回固定比例浮点型高度 */
+#define kHEIGHT(x) lroundf(FUCKHEIGHT(x))/**< 四舍五入返回固定比例整型宽高 */
+
+#define fHEIGHT(x) lroundf((SCREEN_WIDTH == 320)?(x):(x+5))
+#define firstHeight(x) lroundf((SCREEN_WIDTH == 320)?(x):(x+4))
+
+#define lHEIGHT(x)  lroundf(LRHEIGHT(x))
+#define LRHEIGHT(x)  ((SCREEN_WIDTH == 320)?(x):(SCREEN_WIDTH == 375)?(x+4):(x+11))//(x+2)
+
+#define FUCKFONT(x) ((SCREEN_WIDTH == 320)?(x):(x+2))/**< 根据设备返回指定字号 */
+#define kFONT(x) GetFont(FUCKFONT(x))/**< 根据设备返回指定字号字体 */
+#define BFont(x) GetBFont(FUCKFONT(x))
+
+#define ROUNDHEIGHT(x) lroundf(x)    //取四舍五入的尺寸
+#define SEPARATOR @","
+
+//#define WPKeyboardHeight ((SCREEN_WIDTH == 320) ? 192.0f : ((SCREEN_WIDTH == 375) ? 225.5f : 245.0f)) //聊天界面键盘的高度
+#define WPKeyboardHeight  ((SCREEN_WIDTH == 320) ? 192.0f : 225.5f)
+//#define WPKeyboardHeight 216 //聊天界面键盘的高度
+
+#define BOTTOMHEIGHT 49     // 底部工具条的高度
+
+#define IBUTTONXPOSITION SCREEN_WIDTH/6
+#define SEARCHBARHEIGHT 40
+#define BOTTOMINHEADVIEWHEIGHT kHEIGHT(32)
+#define HEADVIEWHEIGHT (40+kHEIGHT(32))
+
+#define ItemHeight kHEIGHT(43)      // 自定义列表项的高度
+#define ItemHeightAndLine (kHEIGHT(43) + 0.5)
+
+#define kShareModel [WPShareModel sharedModel]
+
+#define NUM_PAD_DONE_BUTTON_TAG 100
+
+/** 表格的边框宽度 */
+#define WPStatusTableBorder 5
+
+/** cell的边框宽度 */
+#define WPStatusCellBorder 10
+
+// 内部相册
+#define WPPhotoW 76
+#define WPPhotoH 76
+#define WPPhotoMargin 3
+
+// block self
+#define WS(weakSelf)  __weak __typeof(&*self)weakSelf = self;
+#define WEAKSELF typeof(self) __weak weakSelf = self;
+#define STRONGSELF typeof(weakSelf) __strong strongSelf = weakSelf;
+
+// BYNew
+#define kStatusHeight 20
+#define kScreenW [UIScreen mainScreen].bounds.size.width
+#define kScreenH [UIScreen mainScreen].bounds.size.height
+#define kWinSize [UIScreen mainScreen].bounds.size
+#define RGBColor(r,g,b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+#define RGBColorAlpha(r,g,b,a) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:(a)]
+#define URLWITHSTR(str)         [NSURL URLWithString:str]
+
+#define padding2 10
+#define itemPerLine 4
+#define kItemW (kScreenW-padding2*(itemPerLine+1))/itemPerLine
+#define kItemH 25
+
+typedef enum{
+    topViewClick = 0,
+    FromTopToTop = 1,
+    FromTopToTopLast = 2,
+    FromTopToBottomHead = 3,
+    FromBottomToTopLast = 4
+} animateType;
+
+typedef enum {
+    RelationshipTypeFriend = 0,    //好友
+    RelationshipTypeFans = 1,      //粉丝
+    RelationshipTypeAttention = 2, //关注
+    RelationshipTypeStranger = 3   //陌生人
+}RelationshipType;
+
+typedef enum {
+    NewRelationshipTypeFriend = 0,    //好友  已添加
+    NewRelationshipTypeWaitConfirm = 1,      //等待验证
+    NewRelationshipTypeStranger = 2,//陌生人
+    NewRelationshipTypeAccept = 3    //接受
+}NewRelationshipType;
+
+#define kListBarH 32
+#define kArrowW 40
+#define kAnimationTime 0.8
+
+#define RightF 6
+// 单例 sigleton 宏
+#define singleton_interface(className) \
++ (className *)sharedManager;
+
+#define singleton_implementation(className) \
+static className *_instance; \
++ (id)allocWithZone:(NSZone *)zone \
+{ \
+static dispatch_once_t onceToken; \
+dispatch_once(&onceToken, ^{ \
+_instance = [super allocWithZone:zone]; \
+}); \
+return _instance; \
+} \
++ (className *)sharedManager \
+{ \
+static dispatch_once_t onceToken; \
+dispatch_once(&onceToken, ^{ \
+_instance = [[self alloc] init]; \
+}); \
+return _instance; \
+}
+
+//#define IPADDRESS @"http://kuajie.iok.la:810"  //测试使用
+#define IPADDRESS @"http://kuajie.iok.la:8585"  //内网使用
+#define pictureAddress @"/pictureAddress"//存放图片的路径uxinsoft.iok.la:85
+
+//#define IPADDRESS bendi.length?bendi:@"http://192.168.1.160"
+#define bendi [[NSUserDefaults standardUserDefaults] objectForKey:@"bendi"];
+
+
+
+#define WP_Line_Color RGBColor(219, 219, 219)
+
+#endif

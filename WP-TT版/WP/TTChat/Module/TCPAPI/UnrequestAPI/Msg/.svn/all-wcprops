@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg
+END
+DDReceiveMessageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/DDReceiveMessageAPI.h
+END
+MsgReadNotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/MsgReadNotify.h
+END
+DDReceiveMessageACKAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/DDReceiveMessageACKAPI.m
+END
+DDReceiveMessageAPI.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/DDReceiveMessageAPI.m
+END
+MsgReadNotify.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/MsgReadNotify.m
+END
+DDReceiveMessageACKAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/UnrequestAPI/Msg/DDReceiveMessageACKAPI.h
+END

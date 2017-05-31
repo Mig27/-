@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller
+END
+WPGroupMemberViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupMemberViewController.h
+END
+WPRemoveMemberViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/370/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPRemoveMemberViewController.h
+END
+WPGroupCreateViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/504/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupCreateViewController.m
+END
+WPGroupPhotoAlbumViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupPhotoAlbumViewController.h
+END
+WPCreateGroupNoticeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPCreateGroupNoticeViewController.m
+END
+WPGroupMemberViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupMemberViewController.m
+END
+WPGroupSettingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupSettingViewController.h
+END
+WPRemoveMemberViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPRemoveMemberViewController.m
+END
+WPNickNameEditViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPNickNameEditViewController.h
+END
+WPGroupPhotoAlbumViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupPhotoAlbumViewController.m
+END
+WPGroupNoticeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupNoticeViewController.h
+END
+WPGroupAlumDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupAlumDetailViewController.h
+END
+WPChooseLinkViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPChooseLinkViewController.h
+END
+WPGroupSettingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupSettingViewController.m
+END
+WPNickNameEditViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/304/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPNickNameEditViewController.m
+END
+WPChooseLinkViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPChooseLinkViewController.m
+END
+WPGroupAlumDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/503/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupAlumDetailViewController.m
+END
+WPGroupNoticeViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupNoticeViewController.m
+END
+WPNoticeDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPNoticeDetailViewController.h
+END
+WPNoticeDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPNoticeDetailViewController.m
+END
+WPGroupIntroduceViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupIntroduceViewController.h
+END
+WPGroupInfoEditingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupInfoEditingViewController.h
+END
+WPMessageAlertViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/403/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPMessageAlertViewController.h
+END
+WPTransferGroupOwnerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/404/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPTransferGroupOwnerViewController.h
+END
+WPGroupIntroduceViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupIntroduceViewController.m
+END
+WPGroupCreateViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupCreateViewController.h
+END
+WPGroupInfoEditingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/459/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPGroupInfoEditingViewController.m
+END
+WPMessageAlertViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/404/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPMessageAlertViewController.m
+END
+WPTransferGroupOwnerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/404/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPTransferGroupOwnerViewController.m
+END
+WPCreateGroupNoticeViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/DynamicGroup/Controller/WPCreateGroupNoticeViewController.h
+END

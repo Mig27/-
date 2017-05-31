@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/ioswp/!svn/ver/505/WP-TT%E7%89%88/WP/TTChat/Module/Messages
+END
+DDMessageSendManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/455/WP-TT%E7%89%88/WP/TTChat/Module/Messages/DDMessageSendManager.h
+END
+UnAckMessageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Messages/UnAckMessageManager.h
+END
+DDMessageModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/Messages/DDMessageModule.h
+END
+DDMessageSendManager.mm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/505/WP-TT%E7%89%88/WP/TTChat/Module/Messages/DDMessageSendManager.mm
+END
+UnAckMessageManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/411/WP-TT%E7%89%88/WP/TTChat/Module/Messages/UnAckMessageManager.m
+END
+DDMessageModule.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/TTChat/Module/Messages/DDMessageModule.m
+END

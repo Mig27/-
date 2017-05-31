@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList
+END
+WPGetContactListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListResult.h
+END
+WPGetContactListHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListHttp.h
+END
+WPGetContactListParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListParam.h
+END
+WPGetContactListResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListResult.m
+END
+WPGetContactListHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListHttp.m
+END
+WPGetContactListParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetContactList/WPGetContactListParam.m
+END

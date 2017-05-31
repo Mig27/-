@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/View
+END
+WPPhoneBookCheckCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookCheckCell.h
+END
+WPPhoneBookCheckCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookCheckCell.m
+END
+WPPhoneBookContactByCategoryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookContactByCategoryCell.h
+END
+WPPhoneBookContactByCategoryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/441/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookContactByCategoryCell.m
+END
+LinkAddCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/LinkAddCell.h
+END
+WPPhoneBookContactCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookContactCell.h
+END
+WPAddMePersonCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPAddMePersonCell.h
+END
+LinkAddCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/LinkAddCell.m
+END
+WPPhoneBookContactCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookContactCell.m
+END
+WPAddMePersonCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPAddMePersonCell.m
+END
+WPReplyValidateMsgCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPReplyValidateMsgCell.h
+END
+WPReplyValidateMsgCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPReplyValidateMsgCell.m
+END
+WPFriendValidateCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPFriendValidateCell.h
+END
+LinkmanCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/LinkmanCell.h
+END
+WPFriendValidateCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPFriendValidateCell.m
+END
+LinkmanCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/440/WP-TT%E7%89%88/WP/Class/Message/View/LinkmanCell.m
+END
+FirstMessagePersonalCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/FirstMessagePersonalCell.h
+END
+WPSearchBar.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPSearchBar.h
+END
+FirstMessagePersonalCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/441/WP-TT%E7%89%88/WP/Class/Message/View/FirstMessagePersonalCell.m
+END
+WPSearchBar.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPSearchBar.m
+END
+PersonalFriendCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/PersonalFriendCell.h
+END
+WPPersonalAlbumCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPersonalAlbumCell.h
+END
+WPPhonebookSwitchCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhonebookSwitchCell.h
+END
+WPBlackLIstCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPBlackLIstCell.h
+END
+PersonalFriendCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/PersonalFriendCell.m
+END
+WPPersonalAlbumCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPersonalAlbumCell.m
+END
+WPPhoneBookFriendCategoryCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookFriendCategoryCell.h
+END
+WPPhonebookSwitchCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhonebookSwitchCell.m
+END
+WPFriendValidateView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPFriendValidateView.h
+END
+ThirdMessagePersonalCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/ThirdMessagePersonalCell.h
+END
+SecondMessagePersonalCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/SecondMessagePersonalCell.h
+END
+WPBlackLIstCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/448/WP-TT%E7%89%88/WP/Class/Message/View/WPBlackLIstCell.m
+END
+LinkMobileCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/438/WP-TT%E7%89%88/WP/Class/Message/View/LinkMobileCell.h
+END
+WPPhoneBookFriendCategoryCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookFriendCategoryCell.m
+END
+WPAddMePeopleCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPAddMePeopleCell.h
+END
+ThirdMessagePersonalCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/ThirdMessagePersonalCell.m
+END
+WPFriendValidateView.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPFriendValidateView.m
+END
+SecondMessagePersonalCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/268/WP-TT%E7%89%88/WP/Class/Message/View/SecondMessagePersonalCell.m
+END
+WPPhoneBookSettingCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookSettingCell.h
+END
+LinkMobileCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/441/WP-TT%E7%89%88/WP/Class/Message/View/LinkMobileCell.m
+END
+WPMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPMessageCell.h
+END
+WPAddMePeopleCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPAddMePeopleCell.m
+END
+WPPhoneBookSettingCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookSettingCell.m
+END
+WPMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPMessageCell.m
+END
+AddLinkButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/AddLinkButton.h
+END
+AddLinkButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/AddLinkButton.m
+END
+WPPersonInfoFremarkSettedCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPersonInfoFremarkSettedCell.h
+END
+WPPersonInfoFremarkSettedCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/440/WP-TT%E7%89%88/WP/Class/Message/View/WPPersonInfoFremarkSettedCell.m
+END
+WPDetailPhotoCollectionViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/View/WPDetailPhotoCollectionViewCell.h
+END
+WPDetailPhotoCollectionViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/View/WPDetailPhotoCollectionViewCell.m
+END
+WPInputView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPInputView.h
+END
+WPInputView.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPInputView.m
+END
+InterestedCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/InterestedCell.h
+END
+WPDragIntoBlackListCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPDragIntoBlackListCell.h
+END
+WPPhoneBookGroupCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookGroupCell.h
+END
+LinkGroupCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/LinkGroupCell.h
+END
+InterestedCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/InterestedCell.m
+END
+WPValidateReplyCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPValidateReplyCell.h
+END
+WPDragIntoBlackListCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPDragIntoBlackListCell.m
+END
+WPPhoneBookGroupCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookGroupCell.m
+END
+LinkGroupCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/LinkGroupCell.m
+END
+WPValidateReplyCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPValidateReplyCell.m
+END
+WPPhoneBookFriendCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookFriendCell.h
+END
+WPPhoneBookFriendCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/View/WPPhoneBookFriendCell.m
+END

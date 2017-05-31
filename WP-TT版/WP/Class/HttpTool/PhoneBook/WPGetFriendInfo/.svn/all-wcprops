@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/441/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo
+END
+WPFriendInfoImgListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPFriendInfoImgListModel.m
+END
+WPGetFriendInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoResult.h
+END
+WPGetFriendInfoHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoHttp.h
+END
+WPGetFriendInfoParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoParam.h
+END
+WPGetFriendInfoResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoResult.m
+END
+WPGetFriendInfoHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/441/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoHttp.m
+END
+WPReplyListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPReplyListModel.h
+END
+WPGetFriendInfoParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPGetFriendInfoParam.m
+END
+WPFriendInfoImgListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPFriendInfoImgListModel.h
+END
+WPReplyListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendInfo/WPReplyListModel.m
+END

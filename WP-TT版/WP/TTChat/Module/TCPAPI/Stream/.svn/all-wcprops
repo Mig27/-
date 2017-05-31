@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream
+END
+DDDataInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DDDataInputStream.h
+END
+DataOutputStream+Addition.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DataOutputStream+Addition.h
+END
+DDDataOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DDDataOutputStream.h
+END
+NSStream+NSStreamAddition.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/NSStream+NSStreamAddition.h
+END
+DDDataInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DDDataInputStream.m
+END
+DataOutputStream+Addition.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DataOutputStream+Addition.m
+END
+DDDataOutputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/DDDataOutputStream.m
+END
+NSStream+NSStreamAddition.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Module/TCPAPI/Stream/NSStream+NSStreamAddition.m
+END

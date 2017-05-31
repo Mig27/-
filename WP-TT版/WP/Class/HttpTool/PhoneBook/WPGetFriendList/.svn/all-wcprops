@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList
+END
+WPGetFriendListResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListResult.h
+END
+WPGetFriendListHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListHttp.h
+END
+WPFriendListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPFriendListModel.h
+END
+WPGetFriendListParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListParam.h
+END
+WPToAddListFriendModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPToAddListFriendModel.m
+END
+WPGetFriendListResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListResult.m
+END
+WPGetFriendListHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListHttp.m
+END
+WPFriendListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPFriendListModel.m
+END
+WPGetFriendListParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPGetFriendListParam.m
+END
+WPToAddListFriendModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetFriendList/WPToAddListFriendModel.h
+END

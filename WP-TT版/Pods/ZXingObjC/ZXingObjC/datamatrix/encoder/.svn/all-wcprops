@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder
+END
+ZXDataMatrixASCIIEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixASCIIEncoder.h
+END
+ZXDataMatrixTextEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixTextEncoder.m
+END
+ZXDataMatrixEncoderContext.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixEncoderContext.m
+END
+ZXDataMatrixC40Encoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixC40Encoder.m
+END
+ZXDataMatrixASCIIEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixASCIIEncoder.m
+END
+ZXDataMatrixEdifactEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixEdifactEncoder.h
+END
+ZXDataMatrixEdifactEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixEdifactEncoder.m
+END
+ZXDataMatrixHighLevelEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixHighLevelEncoder.h
+END
+ZXDataMatrixBase256Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixBase256Encoder.h
+END
+ZXDataMatrixSymbolInfo144.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixSymbolInfo144.h
+END
+ZXDataMatrixX12Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixX12Encoder.h
+END
+ZXDataMatrixBase256Encoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixBase256Encoder.m
+END
+ZXDataMatrixHighLevelEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixHighLevelEncoder.m
+END
+ZXDataMatrixDefaultPlacement.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixDefaultPlacement.h
+END
+ZXDataMatrixX12Encoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixX12Encoder.m
+END
+ZXDataMatrixSymbolInfo144.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixSymbolInfo144.m
+END
+ZXDataMatrixEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixEncoder.h
+END
+ZXDataMatrixSymbolInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixSymbolInfo.h
+END
+ZXDataMatrixErrorCorrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixErrorCorrection.h
+END
+ZXDataMatrixDefaultPlacement.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixDefaultPlacement.m
+END
+ZXDataMatrixTextEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixTextEncoder.h
+END
+ZXDataMatrixEncoderContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixEncoderContext.h
+END
+ZXDataMatrixSymbolInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixSymbolInfo.m
+END
+ZXDataMatrixC40Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixC40Encoder.h
+END
+ZXDataMatrixErrorCorrection.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/datamatrix/encoder/ZXDataMatrixErrorCorrection.m
+END

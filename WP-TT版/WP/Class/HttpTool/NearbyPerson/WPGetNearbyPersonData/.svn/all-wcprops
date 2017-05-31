@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/455/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData
+END
+WPGetNearbyPersonDataParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataParam.h
+END
+WPGetNearbyPersonDataResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataResult.m
+END
+WPGetNearbyPersonDataHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/446/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataHttp.m
+END
+WPGetNearbyPersonDataParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataParam.m
+END
+WPNearbyPersonModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPNearbyPersonModel.h
+END
+WPNearbyPersonModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPNearbyPersonModel.m
+END
+WPGetNearbyPersonDataResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/ioswp/!svn/ver/455/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataResult.h
+END
+WPGetNearbyPersonDataHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/NearbyPerson/WPGetNearbyPersonData/WPGetNearbyPersonDataHttp.h
+END

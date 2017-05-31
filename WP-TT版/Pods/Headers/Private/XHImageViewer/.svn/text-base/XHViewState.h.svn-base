@@ -1,0 +1,1 @@
+link ../../../XHImageViewer/Source/XHViewState.h

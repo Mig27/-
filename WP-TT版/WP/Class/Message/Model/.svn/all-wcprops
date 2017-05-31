@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Model
+END
+PersonalFriendModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/PersonalFriendModel.h
+END
+PersonalFriendModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/PersonalFriendModel.m
+END
+pinyin.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/pinyin.c
+END
+WPPhoneBookFriendCategoryModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookFriendCategoryModel.h
+END
+ChineseString.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/ChineseString.h
+END
+LinkMobileModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/289/WP-TT%E7%89%88/WP/Class/Message/Model/LinkMobileModel.h
+END
+pinyin.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/pinyin.h
+END
+WPPhoneBookFriendCategoryModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookFriendCategoryModel.m
+END
+OfflineMessageModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/OfflineMessageModel.h
+END
+MessagePersonalModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/MessagePersonalModel.h
+END
+ChineseString.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/ChineseString.m
+END
+TableViewIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/Model/TableViewIndex.h
+END
+LinkManModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/438/WP-TT%E7%89%88/WP/Class/Message/Model/LinkManModel.h
+END
+LinkMobileModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkMobileModel.m
+END
+WPMessageModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPMessageModel.h
+END
+OfflineMessageModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/OfflineMessageModel.m
+END
+MessagePersonalModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/MessagePersonalModel.m
+END
+LinkManModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkManModel.m
+END
+TableViewIndex.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/Model/TableViewIndex.m
+END
+WPMessageModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPMessageModel.m
+END
+NSDate+Extension.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/NSDate+Extension.h
+END
+LinkmanInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkmanInfoModel.h
+END
+InterestedModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/InterestedModel.h
+END
+IndexModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/IndexModel.h
+END
+WPPhoneBookContactModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookContactModel.h
+END
+WPPhoneBookGroupModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookGroupModel.h
+END
+LinkGroupModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkGroupModel.h
+END
+LinkmanInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkmanInfoModel.m
+END
+NSDate+Extension.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/NSDate+Extension.m
+END
+InterestedModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/InterestedModel.m
+END
+IndexModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/IndexModel.m
+END
+WPPhoneBookContactModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookContactModel.m
+END
+WPGoupListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPGoupListModel.h
+END
+WPPhoneBookGroupModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookGroupModel.m
+END
+LinkGroupModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/LinkGroupModel.m
+END
+tgs.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/tgs.plist
+END
+WPGoupListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPGoupListModel.m
+END
+WPBlackNameModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/410/WP-TT%E7%89%88/WP/Class/Message/Model/WPBlackNameModel.h
+END
+RSChatMessageModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/439/WP-TT%E7%89%88/WP/Class/Message/Model/RSChatMessageModel.h
+END
+WPBlackNameModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/ioswp/!svn/ver/409/WP-TT%E7%89%88/WP/Class/Message/Model/WPBlackNameModel.m
+END
+WPPhoneBookContactDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookContactDetailModel.h
+END
+RSFmdbTool.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/RSFmdbTool.h
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ioswp/!svn/ver/439/WP-TT%E7%89%88/WP/Class/Message/Model/User.h
+END
+Depart.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/Depart.h
+END
+RSChatMessageModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/ioswp/!svn/ver/439/WP-TT%E7%89%88/WP/Class/Message/Model/RSChatMessageModel.m
+END
+WPPhoneBookContactDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/WPPhoneBookContactDetailModel.m
+END
+RSFmdbTool.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/RSFmdbTool.m
+END
+User.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/User.m
+END
+ShareOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/432/WP-TT%E7%89%88/WP/Class/Message/Model/ShareOperation.h
+END
+Depart.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Model/Depart.m
+END
+ShareOperation.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/432/WP-TT%E7%89%88/WP/Class/Message/Model/ShareOperation.m
+END

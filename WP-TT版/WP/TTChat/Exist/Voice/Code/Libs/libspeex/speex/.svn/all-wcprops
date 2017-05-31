@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex
+END
+speex_preprocess.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_preprocess.h
+END
+speex_header.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_header.h
+END
+speex_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_buffer.h
+END
+speex_config_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_config_types.h
+END
+speex_resampler.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_resampler.h
+END
+speex_config_types.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_config_types.h.in
+END
+speex_echo.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_echo.h
+END
+speex_callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_callbacks.h
+END
+speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex.h
+END
+speex_bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_bits.h
+END
+speex_jitter.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_jitter.h
+END
+speex_stereo.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_stereo.h
+END
+speex_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex/speex_types.h
+END

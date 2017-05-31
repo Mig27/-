@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/opencore-amr-iOS/include/opencore-amrwb
+END
+dec_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/opencore-amr-iOS/include/opencore-amrwb/dec_if.h
+END
+if_rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Util/Audio/opencore-amr-iOS/include/opencore-amrwb/if_rom.h
+END

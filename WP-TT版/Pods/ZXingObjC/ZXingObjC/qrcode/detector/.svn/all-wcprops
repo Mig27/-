@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector
+END
+ZXQRCodeAlignmentPatternFinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPatternFinder.m
+END
+ZXQRCodeDetector.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeDetector.h
+END
+ZXQRCodeFinderPattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPattern.m
+END
+ZXQRCodeAlignmentPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPattern.h
+END
+ZXQRCodeFinderPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternFinder.h
+END
+ZXQRCodeDetector.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeDetector.m
+END
+ZXQRCodeAlignmentPattern.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPattern.m
+END
+ZXQRCodeFinderPatternInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternInfo.h
+END
+ZXQRCodeFinderPatternFinder.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternFinder.m
+END
+ZXQRCodeAlignmentPatternFinder.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeAlignmentPatternFinder.h
+END
+ZXQRCodeFinderPattern.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPattern.h
+END
+ZXQRCodeFinderPatternInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/qrcode/detector/ZXQRCodeFinderPatternInfo.m
+END

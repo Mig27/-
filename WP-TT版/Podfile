@@ -1,0 +1,37 @@
+platform :ios, '7.1'
+
+pod 'YYKit'
+
+pod 'AFNetworking', '~> 2.0'
+
+pod 'SDWebImage', '~>3.7'
+
+pod 'XHRealTimeBlur', '~> 1.7'
+pod 'pop', '~> 1.0.7'
+pod 'ReactiveCocoa', '~> 2.3.1'
+pod 'BlocksKit', '~> 2.2.5'
+pod 'IQKeyboardManager', '~> 3.3.1'
+pod 'PSTCollectionView', '~> 1.2.1'
+pod 'ProtocolBuffers', '~> 1.9.4'
+pod 'SCLAlertView-Objective-C', '~> 0.7.3'
+pod 'MWPhotoBrowser'
+pod 'TTTAttributedLabel'
+pod 'SVWebViewController'
+pod 'XHImageViewer'
+pod 'ZXingObjC'
+
+pod 'RDVTabBarController'
+pod 'Masonry'
+pod 'FMDB'
+
+pod 'AMap2DMap'
+pod 'AMapSearch'
+
+pod 'MJExtension'
+pod 'MJRefresh'
+pod 'FDFullscreenPopGesture', '1.1'
+
+
+
+
+

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder
+END
+ZXPDF417DetectionResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResult.m
+END
+ZXPDF417BoundingBox.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BoundingBox.m
+END
+ZXPDF417DecodedBitStreamParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DecodedBitStreamParser.m
+END
+ZXPDF417DetectionResultRowIndicatorColumn.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultRowIndicatorColumn.m
+END
+ZXPDF417ScanningDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417ScanningDecoder.h
+END
+ZXPDF417DetectionResultColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultColumn.h
+END
+ZXPDF417ScanningDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417ScanningDecoder.m
+END
+ZXPDF417BarcodeValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeValue.h
+END
+ZXPDF417CodewordDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417CodewordDecoder.h
+END
+ZXPDF417BarcodeMetadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeMetadata.h
+END
+ZXPDF417DetectionResultColumn.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultColumn.m
+END
+ZXPDF417BarcodeValue.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeValue.m
+END
+ZXPDF417CodewordDecoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417CodewordDecoder.m
+END
+ZXPDF417BarcodeMetadata.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BarcodeMetadata.m
+END
+ZXPDF417Codeword.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417Codeword.h
+END
+ZXPDF417Codeword.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417Codeword.m
+END
+ZXPDF417DetectionResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResult.h
+END
+ZXPDF417BoundingBox.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417BoundingBox.h
+END
+ZXPDF417DecodedBitStreamParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DecodedBitStreamParser.h
+END
+ZXPDF417DetectionResultRowIndicatorColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/Pods/ZXingObjC/ZXingObjC/pdf417/decoder/ZXPDF417DetectionResultRowIndicatorColumn.h
+END

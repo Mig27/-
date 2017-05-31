@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe
+END
+ResetTelephoneController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ResetTelephoneController.h
+END
+CustomAnonymousController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/CustomAnonymousController.m
+END
+ResetTelephoneController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ResetTelephoneController.m
+END
+SetAnonymousController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/SetAnonymousController.h
+END
+VerificationPassWordController.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/VerificationPassWordController.h
+END
+SetAnonymousController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/SetAnonymousController.m
+END
+VerificationPassWordController.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/VerificationPassWordController.m
+END
+WPFriendSettingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPFriendSettingController.h
+END
+WPWiFiSetViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWiFiSetViewController.h
+END
+WPWiFiSetCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWiFiSetCell.h
+END
+WPSetAccountController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPSetAccountController.h
+END
+WPBlackListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPBlackListController.h
+END
+WPFriendSettingController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPFriendSettingController.m
+END
+WPDoNotWatchController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPDoNotWatchController.h
+END
+WPWiFiSetViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWiFiSetViewController.m
+END
+WPWiFiSetCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWiFiSetCell.m
+END
+AccountSecurityController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/AccountSecurityController.h
+END
+WPBlackListController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPBlackListController.m
+END
+WPSetAccountController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPSetAccountController.m
+END
+WPDoNotWatchController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPDoNotWatchController.m
+END
+AccountSecurityController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/AccountSecurityController.m
+END
+DefultAnonymousController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/DefultAnonymousController.h
+END
+WPAnonymousController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPAnonymousController.h
+END
+DefultAnonymousController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/DefultAnonymousController.m
+END
+WPWorkWorldController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWorkWorldController.h
+END
+WPAnonymousController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPAnonymousController.m
+END
+ForgetPassWordViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ForgetPassWordViewController.h
+END
+ResetPassWordController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ResetPassWordController.h
+END
+WPWorkWorldController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPWorkWorldController.m
+END
+ForgetPassWordViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ForgetPassWordViewController.m
+END
+ResetPassWordController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/ResetPassWordController.m
+END
+WPConcealController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPConcealController.h
+END
+TelePhoneViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/TelePhoneViewController.h
+END
+WPMessagerNoticeController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPMessagerNoticeController.h
+END
+WPConcealController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPConcealController.m
+END
+CustomAnonymousController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/CustomAnonymousController.h
+END
+TelePhoneViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/TelePhoneViewController.m
+END
+WPMessagerNoticeController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/473/WP-TT%E7%89%88/WP/Class/Me/Controller/WPNewMe/WPMessagerNoticeController.m
+END

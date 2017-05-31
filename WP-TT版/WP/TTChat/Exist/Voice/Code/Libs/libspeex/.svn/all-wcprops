@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex
+END
+modes_wb.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/modes_wb.c
+END
+bits.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/bits.c
+END
+lsp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lsp_bfin.h
+END
+nb_celp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/nb_celp.c
+END
+ltp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/ltp_bfin.h
+END
+mdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/mdf.c
+END
+nb_celp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/nb_celp.h
+END
+sb_celp.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/sb_celp.c
+END
+kiss_fft.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/kiss_fft.c
+END
+cb_search.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/cb_search.c
+END
+quant_lsp_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/quant_lsp_bfin.h
+END
+sb_celp.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/sb_celp.h
+END
+kiss_fft.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/kiss_fft.h
+END
+ltp_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/ltp_sse.h
+END
+cb_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/cb_search.h
+END
+lpc_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lpc_bfin.h
+END
+filterbank.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filterbank.c
+END
+os_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/os_support.h
+END
+speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex.c
+END
+gain_table_lbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/gain_table_lbr.c
+END
+filterbank.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filterbank.h
+END
+resample_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/resample_sse.h
+END
+filters_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filters_sse.h
+END
+kiss_fftr.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/kiss_fftr.c
+END
+hexc_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/hexc_table.c
+END
+ltp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/ltp.c
+END
+kiss_fftr.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/kiss_fftr.h
+END
+fixed_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fixed_generic.h
+END
+hexc_10_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/hexc_10_32_table.c
+END
+smallft.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/smallft.c
+END
+ltp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/ltp.h
+END
+vq_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vq_sse.h
+END
+modes.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/modes.c
+END
+lsp_tables_nb.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lsp_tables_nb.c
+END
+smallft.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/smallft.h
+END
+filters.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filters.c
+END
+resample.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/resample.c
+END
+fixed_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fixed_debug.h
+END
+filters_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filters_bfin.h
+END
+cb_search_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/cb_search_bfin.h
+END
+modes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/modes.h
+END
+filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filters.h
+END
+vq_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vq_arm4.h
+END
+_kiss_fft_guts.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/_kiss_fft_guts.h
+END
+scal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/scal.c
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/arch.h
+END
+stack_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/stack_alloc.h
+END
+vq.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vq.c
+END
+ltp_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/ltp_arm4.h
+END
+exc_10_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_10_32_table.c
+END
+exc_20_32_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_20_32_table.c
+END
+vq.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vq.h
+END
+lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lsp.c
+END
+jitter.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/jitter.c
+END
+stereo.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/stereo.c
+END
+fixed_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fixed_bfin.h
+END
+lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lsp.h
+END
+vorbis_psy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vorbis_psy.h
+END
+quant_lsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/quant_lsp.c
+END
+exc_8_128_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_8_128_table.c
+END
+fftwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fftwrap.c
+END
+quant_lsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/quant_lsp.h
+END
+fftwrap.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fftwrap.h
+END
+lpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lpc.c
+END
+speex_callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex_callbacks.c
+END
+lpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/lpc.h
+END
+gain_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/gain_table.c
+END
+math_approx.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/math_approx.h
+END
+vbr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vbr.c
+END
+fixed_arm5e.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fixed_arm5e.h
+END
+vbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vbr.h
+END
+misc_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/misc_bfin.h
+END
+filters_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/filters_arm4.h
+END
+cb_search_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/cb_search_arm4.h
+END
+exc_5_256_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_5_256_table.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/window.c
+END
+buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/buffer.c
+END
+exc_5_64_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_5_64_table.c
+END
+preprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/preprocess.c
+END
+high_lsp_tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/high_lsp_tables.c
+END
+fixed_arm4.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/fixed_arm4.h
+END
+cb_search_sse.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/cb_search_sse.h
+END
+vq_bfin.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/vq_bfin.h
+END
+pseudofloat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/pseudofloat.h
+END
+exc_10_16_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/exc_10_16_table.c
+END
+speex_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/Exist/Voice/Code/Libs/libspeex/speex_header.c
+END

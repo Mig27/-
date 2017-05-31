@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Message/Controller
+END
+DetailsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/491/WP-TT%E7%89%88/WP/Class/Message/Controller/DetailsViewController.m
+END
+MobileLinkController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/MobileLinkController.h
+END
+WPPhoneBookFriendSettingController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookFriendSettingController.m
+END
+RSSocketClinet.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/443/WP-TT%E7%89%88/WP/Class/Message/Controller/RSSocketClinet.h
+END
+LinkManViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/Message/Controller/LinkManViewController.m
+END
+MobileLinkController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/ioswp/!svn/ver/442/WP-TT%E7%89%88/WP/Class/Message/Controller/MobileLinkController.m
+END
+WPMessageController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPMessageController.h
+END
+recentLinkTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/recentLinkTableViewCell.h
+END
+RSSocketClinet.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/Class/Message/Controller/RSSocketClinet.m
+END
+WPPersonalSetBlackListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPersonalSetBlackListController.h
+END
+WPMessageController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/439/WP-TT%E7%89%88/WP/Class/Message/Controller/WPMessageController.m
+END
+LinkAddViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/LinkAddViewController.h
+END
+WPRecentLinkManController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/WPRecentLinkManController.h
+END
+recentLinkTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/recentLinkTableViewCell.m
+END
+WPPersonalSetBlackListController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPersonalSetBlackListController.m
+END
+LinkAddViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/Message/Controller/LinkAddViewController.m
+END
+WPRecentLinkManController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/476/WP-TT%E7%89%88/WP/Class/Message/Controller/WPRecentLinkManController.m
+END
+WPConcernNumberController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/293/WP-TT%E7%89%88/WP/Class/Message/Controller/WPConcernNumberController.h
+END
+WPSearchJobController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPSearchJobController.h
+END
+WPAddNewFriendValidateController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/405/WP-TT%E7%89%88/WP/Class/Message/Controller/WPAddNewFriendValidateController.h
+END
+WPPhoneBookSettingSwitchController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookSettingSwitchController.h
+END
+WPRecommendToFriendController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPRecommendToFriendController.h
+END
+WPConcernNumberController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/293/WP-TT%E7%89%88/WP/Class/Message/Controller/WPConcernNumberController.m
+END
+WPSearchJobController.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPSearchJobController.m
+END
+WPAddNewFriendValidateController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/456/WP-TT%E7%89%88/WP/Class/Message/Controller/WPAddNewFriendValidateController.m
+END
+WPPhoneBookSettingSwitchController.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/446/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookSettingSwitchController.m
+END
+WPRecommendToFriendController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPRecommendToFriendController.m
+END
+WPNeiborController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPNeiborController.h
+END
+PersonalInfoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/Class/Message/Controller/PersonalInfoViewController.h
+END
+AddNewFriendController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/AddNewFriendController.h
+END
+WPNeiborController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPNeiborController.m
+END
+WPStrangerSettingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/414/WP-TT%E7%89%88/WP/Class/Message/Controller/WPStrangerSettingController.h
+END
+PersonalInfoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/ioswp/!svn/ver/458/WP-TT%E7%89%88/WP/Class/Message/Controller/PersonalInfoViewController.m
+END
+AddNewFriendController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/Class/Message/Controller/AddNewFriendController.m
+END
+WPStrangerSettingController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/415/WP-TT%E7%89%88/WP/Class/Message/Controller/WPStrangerSettingController.m
+END
+FriendAndFansSettingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/FriendAndFansSettingController.h
+END
+InterestedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/InterestedViewController.h
+END
+WPFriendListByCategoryController.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPFriendListByCategoryController.h
+END
+WPPhoneBookFriendSettingDetailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookFriendSettingDetailController.h
+END
+WPPhoneBookRecruitSetController.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookRecruitSetController.h
+END
+FriendAndFansSettingController.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/FriendAndFansSettingController.m
+END
+InterestedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/InterestedViewController.m
+END
+PersonalFriendViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/PersonalFriendViewController.h
+END
+WPFriendListByCategoryController.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/WPFriendListByCategoryController.m
+END
+WPMyGroupController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/438/WP-TT%E7%89%88/WP/Class/Message/Controller/WPMyGroupController.h
+END
+WPPhoneBookFriendSettingDetailController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/447/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookFriendSettingDetailController.m
+END
+WPPhoneBookRecruitSetController.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookRecruitSetController.m
+END
+WPFriendListController.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/293/WP-TT%E7%89%88/WP/Class/Message/Controller/WPFriendListController.h
+END
+WPPersonalAlbumController.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPersonalAlbumController.h
+END
+PersonalFriendViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/Message/Controller/PersonalFriendViewController.m
+END
+WPDetailPhotoViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/Controller/WPDetailPhotoViewController.h
+END
+WPMyGroupController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/ioswp/!svn/ver/455/WP-TT%E7%89%88/WP/Class/Message/Controller/WPMyGroupController.m
+END
+WPChooseContactToNewCategoryController.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/Controller/WPChooseContactToNewCategoryController.h
+END
+WPFriendListController.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/Class/Message/Controller/WPFriendListController.m
+END
+DetailsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/445/WP-TT%E7%89%88/WP/Class/Message/Controller/DetailsViewController.h
+END
+WPPersonalAlbumController.m
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPersonalAlbumController.m
+END
+WPPhoneBookFriendSettingController.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/ioswp/!svn/ver/438/WP-TT%E7%89%88/WP/Class/Message/Controller/WPPhoneBookFriendSettingController.h
+END
+WPDetailPhotoViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/ioswp/!svn/ver/322/WP-TT%E7%89%88/WP/Class/Message/Controller/WPDetailPhotoViewController.m
+END
+WPChooseContactToNewCategoryController.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/ioswp/!svn/ver/452/WP-TT%E7%89%88/WP/Class/Message/Controller/WPChooseContactToNewCategoryController.m
+END
+LinkManViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/ioswp/!svn/ver/366/WP-TT%E7%89%88/WP/Class/Message/Controller/LinkManViewController.h
+END

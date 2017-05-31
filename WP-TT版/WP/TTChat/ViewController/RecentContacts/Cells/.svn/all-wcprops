@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells
+END
+chatNotiModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/374/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/chatNotiModel.h
+END
+MTTPCStatusCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/MTTPCStatusCell.h
+END
+inviteNoTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/406/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/inviteNoTableViewCell.h
+END
+RecentUserCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/377/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/RecentUserCell.h
+END
+chatNotiModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/ioswp/!svn/ver/373/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/chatNotiModel.m
+END
+MTTPCStatusCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/MTTPCStatusCell.m
+END
+RecentGroupMessageCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/403/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/RecentGroupMessageCell.h
+END
+inviteNoTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/406/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/inviteNoTableViewCell.m
+END
+RecentUserCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/RecentUserCell.m
+END
+RecentGroupMessageCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/504/WP-TT%E7%89%88/WP/TTChat/ViewController/RecentContacts/Cells/RecentGroupMessageCell.m
+END

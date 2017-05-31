@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9532" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="WriteCollectionViewCellId" id="gTV-IL-0wX" customClass="WriteCollectionViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="sab-hL-HqS">
+                        <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                    </imageView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="loo-sK-1TT">
+                        <rect key="frame" x="58" y="0.0" width="22" height="22"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="22" id="FYs-k5-Akd"/>
+                            <constraint firstAttribute="height" constant="22" id="FoB-MF-QRt"/>
+                        </constraints>
+                        <state key="normal" image="UMS_delete_image_button_normal.png">
+                            <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="sab-hL-HqS" secondAttribute="bottom" id="Nv5-so-6yP"/>
+                <constraint firstAttribute="trailing" secondItem="sab-hL-HqS" secondAttribute="trailing" id="dlE-Pw-Ibm"/>
+                <constraint firstItem="sab-hL-HqS" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="kRz-pR-n0F"/>
+                <constraint firstItem="loo-sK-1TT" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="pyl-oH-zK7"/>
+                <constraint firstAttribute="trailing" secondItem="loo-sK-1TT" secondAttribute="trailing" id="qiF-AE-O1W"/>
+                <constraint firstItem="sab-hL-HqS" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="yjG-BR-Ajc"/>
+            </constraints>
+            <size key="customSize" width="102" height="80"/>
+            <connections>
+                <outlet property="deleteBtn" destination="loo-sK-1TT" id="Pkg-uV-n25"/>
+                <outlet property="imageV" destination="sab-hL-HqS" id="f9x-9P-uXs"/>
+            </connections>
+            <point key="canvasLocation" x="223" y="280"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="UMS_delete_image_button_normal.png" width="13" height="13"/>
+    </resources>
+</document>

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting
+END
+ApplyAndWantDetailController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/359/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ApplyAndWantDetailController.h
+END
+DDChatImagePreviewViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/DDChatImagePreviewViewController.h
+END
+inviteAndApplyCellController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/433/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/inviteAndApplyCellController.h
+END
+ApplyAndWantDetailController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ApplyAndWantDetailController.m
+END
+DDChatImagePreviewViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/DDChatImagePreviewViewController.m
+END
+inviteAndApplyCellController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/504/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/inviteAndApplyCellController.m
+END
+TTChatPlusViewCollectionViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/273/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/TTChatPlusViewCollectionViewController.h
+END
+ChatUtilityViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ChatUtilityViewController.h
+END
+ApplyAndWantTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/359/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ApplyAndWantTableViewCell.h
+END
+TTChatPlusViewCollectionViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/ioswp/!svn/ver/275/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/TTChatPlusViewCollectionViewController.m
+END
+ChatUtilityViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/361/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ChatUtilityViewController.m
+END
+MyApplyAndWantViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/359/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/MyApplyAndWantViewController.h
+END
+TTChatPlusScrollViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ioswp/!svn/ver/278/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/TTChatPlusScrollViewController.h
+END
+PlusCollectionFooterView.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/273/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/PlusCollectionFooterView.h
+END
+ApplyAndWantTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/368/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/ApplyAndWantTableViewCell.m
+END
+CCCustomButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/278/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/CCCustomButton.h
+END
+MyApplyAndWantViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/454/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/MyApplyAndWantViewController.m
+END
+WPPhotoAndVideoController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/453/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/WPPhotoAndVideoController.h
+END
+TTChatPlusScrollViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/ioswp/!svn/ver/457/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/TTChatPlusScrollViewController.m
+END
+PlusCollectionFooterView.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/ioswp/!svn/ver/273/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/PlusCollectionFooterView.m
+END
+CCCustomButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/ioswp/!svn/ver/384/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/CCCustomButton.m
+END
+WPPhotoAndVideoController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/ioswp/!svn/ver/506/WP-TT%E7%89%88/WP/TTChat/ViewController/Chatting/Chatting/WPPhotoAndVideoController.m
+END

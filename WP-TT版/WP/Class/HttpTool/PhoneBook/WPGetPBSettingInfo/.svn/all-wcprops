@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo
+END
+WPGetPBSettingInfoResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoResult.h
+END
+WPGetPBSettingInfoHttp.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoHttp.h
+END
+WPGetPBSettingInfoParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoParam.h
+END
+WPGetPBSettingInfoResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoResult.m
+END
+WPGetPBSettingInfoHttp.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoHttp.m
+END
+WPGetPBSettingInfoParam.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/ioswp/!svn/ver/265/WP-TT%E7%89%88/WP/Class/HttpTool/PhoneBook/WPGetPBSettingInfo/WPGetPBSettingInfoParam.m
+END
